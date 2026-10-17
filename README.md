@@ -27,7 +27,6 @@ ReceiptModule
 - `BUG_REPORT.md` — найденные ошибки.
 
 ## Запуск
-Открой терминал в папке проекта и выполни:
 
 ```bash
 python test_runner.py

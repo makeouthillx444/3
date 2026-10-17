@@ -1,7 +1,7 @@
-<div align="center">
-
 # FoodCampus — ReceiptModule
 
+<div align="center">
+  
 **Создатели проекта:** Богачёв Артём Волосович Андрей, Дунаев Дмитрий, Кырбоба Дарья.
 
 </div>
